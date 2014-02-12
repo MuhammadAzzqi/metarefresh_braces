@@ -1,0 +1,10 @@
+{
+    "name": "Braces",
+    "main": "index.html",
+    "window": {
+        "width": 400,
+        "height": 520,
+        "title": "Braces",
+        "toolbar": false
+  }
+}

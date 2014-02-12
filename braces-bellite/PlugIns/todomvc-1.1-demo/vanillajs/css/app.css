@@ -1,0 +1,16 @@
+* {margin: 0; padding: 0;}
+
+body {
+    font-family: Helvetica, Arial;
+}
+
+.topbar {
+    width: 100%;
+    background: #888;
+    color: #fff;
+    /*padding: 8px 0;*/
+}
+
+.filename {
+    margin-left: 10px;
+}

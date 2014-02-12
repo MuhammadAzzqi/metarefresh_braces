@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>12D78</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>http://Bellite.io - HTML5 desktop apps</string>
+	<key>CFBundleIdentifier</key>
+	<string>io.bellite.Bellite</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Bellite</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.4.24</string>
+	<key>CFBundleVersion</key>
+	<string>1.4.24</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>4H1003</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>11E52</string>
+	<key>DTSDKName</key>
+	<string>macosx10.7</string>
+	<key>DTXcode</key>
+	<string>0462</string>
+	<key>DTXcodeBuild</key>
+	<string>4H1003</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2012 TechGame Networks, LLC. All rights reserved. (demo)</string>
+</dict>
+</plist>

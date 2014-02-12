@@ -1,0 +1,70 @@
+{
+  "info": {
+    "appname": "test",
+    "filename": "test",
+    "copyright": "Copyright © 2012 {Razorflow}. All rights reserved.",
+    "bundle_id": "com.razorlfow.test",
+    "plugins_active": [
+      "todomvc-1.1-demo"
+    ],
+    "plugins_common": [],
+    "plugins_macosx": [
+      "node-0.10.9-osx"
+    ],
+    "plugins_windows": [
+      "node-0.10.9-win32"
+    ],
+    "init_script_debug": false,
+    "init_script": [
+      [
+        "requireInstall",
+        {
+          "exit": true
+        }
+      ],
+      [
+        "server"
+      ],
+      [
+        "siteWhitelist",
+        {
+          "whitelist": [
+            "https://127.0.0.1",
+            "http://127.0.0.1"
+          ]
+        }
+      ],
+      [
+        "initApp",
+        {
+          "title": "TodoMVC - Bellite Powered"
+        }
+      ],
+      [
+        "listVersionedPaths",
+        {
+          "varPrefix": "plugin:",
+          "path": [
+            "${app:plugins}",
+            "${app:parent}/PlugIns"
+          ]
+        }
+      ],
+      [
+        "subprocess",
+        {
+          "exec": "${plugin:node}/node${.exe}",
+          "cwd": "${plugin:todomvc}",
+          "args": [
+            "todomvc-demo.js"
+          ],
+          "stdall": true,
+          "terminateOnExit": true
+        }
+      ]
+    ],
+    "clean_build": false,
+    "outdir": "/Users/ameen/braces/",
+    "srcRoot": "../../Downloads/bellite-1.4.24-demo-full/bellite-1.4.24-demo"
+  }
+}

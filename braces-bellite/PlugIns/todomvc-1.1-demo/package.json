@@ -1,0 +1,13 @@
+{
+  "name": "todomvc-demo-0.1",
+  "version": "0.1.0",
+  "description": "Bellite Demo using TodoMVC",
+  "main": "todomvc-demo.js",
+  "dependencies": {
+    "bellite": "1.4.x",
+    "connect": "2.7"
+  },
+  "author": "Shane Holloway <shane@bellite.io>",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}

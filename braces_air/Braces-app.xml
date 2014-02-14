@@ -1,0 +1,11 @@
+<application xmlns="http://ns.adobe.com/air/application/2.7">
+  <id>examples.html.Braces</id>
+  <versionNumber>0.1</versionNumber> 
+  <filename>Braces</filename>
+  <initialWindow> 
+          <content>Braces.html</content> 
+          <visible>true</visible> 
+          <width>800</width> 
+          <height>600</height> 
+  </initialWindow>  
+</application>

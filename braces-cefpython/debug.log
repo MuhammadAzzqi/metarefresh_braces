@@ -1,0 +1,579 @@
+[0214/151027:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/151028:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/151036:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151036:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151413:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/151417:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151417:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151428:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/151429:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/151433:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151433:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151731:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/151732:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/151737:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151737:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151742:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/151742:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/151749:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/151749:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/152134:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/152134:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/152147:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/152147:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/152330:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/152331:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/152459:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/152459:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/152510:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/152510:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154006:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154006:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/154227:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154227:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/154239:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154243:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154243:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154317:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154318:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154321:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154321:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154333:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154333:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154336:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154336:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154342:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154342:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154345:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154345:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154403:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154403:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154406:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154406:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154434:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154434:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154436:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154436:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154502:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154504:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154504:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154519:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154521:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154521:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154557:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154557:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154602:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154602:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154621:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154621:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/154630:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154630:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/154948:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/154948:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/155000:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155000:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155145:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155145:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/155146:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155146:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155245:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155246:INFO:CONSOLE(1)] "Uncaught ReferenceError: require is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/155254:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155254:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155330:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155330:INFO:CONSOLE(8)] "Uncaught TypeError: Cannot read property 'window' of undefined", source: file:///home/narendra/braces/braces-cefpython/app.js (8)
+[0214/155335:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155335:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155452:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155452:INFO:CONSOLE(8)] "Uncaught TypeError: Cannot read property 'window' of undefined", source: file:///home/narendra/braces/braces-cefpython/app.js (8)
+[0214/155454:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155454:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155703:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155715:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155715:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155725:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155735:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155735:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155738:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155742:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155742:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155758:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155830:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155830:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155854:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155900:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155900:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155943:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/155943:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'window' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/155944:INFO:CONSOLE(16)] "Uncaught TypeError: undefined is not a function", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/155946:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/155946:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160014:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160022:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160022:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160216:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160216:INFO:CONSOLE(1)] "Uncaught ReferenceError: CodeMirror is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (1)
+[0214/160216:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/160218:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160218:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160236:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160237:INFO:CONSOLE(21)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (21)
+[0214/160241:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160241:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160404:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160404:INFO:CONSOLE(21)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (21)
+[0214/160422:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160422:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160623:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160625:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160625:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160634:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160639:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160639:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160715:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160716:INFO:CONSOLE(21)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (21)
+[0214/160725:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160725:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160948:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/160948:INFO:CONSOLE(21)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (21)
+[0214/160951:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/160951:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161019:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161020:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161023:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161023:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161105:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161105:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161109:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161109:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161111:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161111:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161113:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161113:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161121:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161122:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161124:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161124:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161137:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161138:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161141:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161141:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161201:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161212:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161212:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161226:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161227:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161229:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161229:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161240:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161241:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161243:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161243:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161327:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161328:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161332:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161332:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161359:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161400:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161407:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161407:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161448:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161448:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/161509:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161510:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161513:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/161526:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161527:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/161529:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/161707:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161707:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/161725:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161725:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/161743:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161743:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/161818:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161818:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/161915:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/161915:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/162009:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162010:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/162012:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162013:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/162050:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162053:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162117:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162118:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/162120:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162120:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162210:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162211:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/162224:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162224:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+cefpython: ------------------------------------------------------------
+cefpython: Initialize() called
+cefpython: CefExecuteProcess(): exitCode = -1
+cefpython: CefInitialize()
+[0214/162359:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+cefpython: WindowUtils::IsWindowHandle() not implemented!
+cefpython: CreateBrowserSync() called
+cefpython: navigateUrl: file:///home/narendra/braces/braces-cefpython/example.html
+cefpython: CefBrowser::CreateBrowserSync()
+cefpython: ------------------------------------------------------------
+cefpython: Initialize() called
+cefpython: CefExecuteProcess(): exitCode = -1
+cefpython: CefInitialize()
+[0214/162420:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+cefpython: WindowUtils::IsWindowHandle() not implemented!
+cefpython: CreateBrowserSync() called
+cefpython: navigateUrl: file:///home/narendra/braces/braces-cefpython/index.html
+cefpython: CefBrowser::CreateBrowserSync()
+[0214/162434:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162435:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/162437:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162437:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+cefpython: ------------------------------------------------------------
+cefpython: Initialize() called
+cefpython: CefExecuteProcess(): exitCode = -1
+cefpython: CefInitialize()
+[0214/162619:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+cefpython: WindowUtils::IsWindowHandle() not implemented!
+cefpython: CreateBrowserSync() called
+cefpython: navigateUrl: file:///home/narendra/braces/braces-cefpython/example.html
+cefpython: CefBrowser::CreateBrowserSync()
+[0214/162630:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162631:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/162650:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162650:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162708:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/162709:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/162710:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/162710:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163059:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/163059:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/163107:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163107:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163109:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/163110:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/163113:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163113:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163333:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/163334:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/163336:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/163357:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/163358:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/163402:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163402:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163402:ERROR_REPORT:gtk_native_view_id_manager.cc(180)] Check failed: window. 
+[0214/163402:ERROR:browser_main_loop.cc(212)] Gdk: _gdk_window_destroy_hierarchy: assertion 'GDK_IS_WINDOW (window)' failed
+[0214/163402:ERROR:browser_main_loop.cc(212)] GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[0214/163402:ERROR_REPORT:gtk_native_view_id_manager.cc(180)] Check failed: window. 
+[0214/163402:ERROR:browser_main_loop.cc(212)] Gdk: _gdk_window_destroy_hierarchy: assertion 'GDK_IS_WINDOW (window)' failed
+[0214/163402:ERROR:browser_main_loop.cc(212)] GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[0214/163427:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/163428:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/163433:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/163433:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/164319:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/164319:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/164323:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/164323:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/164443:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/164443:INFO:CONSOLE(19)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (19)
+[0214/164447:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/165342:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165342:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/165519:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165519:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/165658:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165658:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/165745:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165745:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/165752:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165752:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/165758:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/165758:ERROR_REPORT:gtk_native_view_id_manager.cc(180)] Check failed: window. 
+[0214/165758:ERROR:browser_main_loop.cc(212)] Gdk: _gdk_window_destroy_hierarchy: assertion 'GDK_IS_WINDOW (window)' failed
+[0214/165758:ERROR:browser_main_loop.cc(212)] GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[0214/165758:ERROR_REPORT:gtk_native_view_id_manager.cc(180)] Check failed: window. 
+[0214/165758:ERROR:browser_main_loop.cc(212)] Gdk: _gdk_window_destroy_hierarchy: assertion 'GDK_IS_WINDOW (window)' failed
+[0214/165758:ERROR:browser_main_loop.cc(212)] GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[0214/165915:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165916:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/165922:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/165939:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/165940:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/165944:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/165959:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170000:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170039:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170040:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170042:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170119:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170120:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170125:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170244:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170245:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170248:INFO:CONSOLE(25)] "Uncaught ReferenceError: path is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (25)
+[0214/170250:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170252:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170252:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170256:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170316:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170317:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170319:INFO:CONSOLE(25)] "Uncaught ReferenceError: path is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (25)
+[0214/170320:INFO:CONSOLE(25)] "Uncaught ReferenceError: path is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (25)
+[0214/170321:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170421:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170421:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170424:INFO:CONSOLE(25)] "Uncaught ReferenceError: fs is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (25)
+[0214/170425:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170427:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170427:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170429:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170502:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170502:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170504:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/170506:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/170611:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/170612:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/170617:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171056:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171056:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/171058:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171059:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171100:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171100:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171101:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171101:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171101:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171101:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171101:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171101:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171102:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171102:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171106:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171118:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171119:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/171120:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171122:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171122:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171125:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171159:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171159:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/171201:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171203:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171222:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171222:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/171227:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171234:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171235:INFO:CONSOLE(7)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (7)
+[0214/171236:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171237:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171237:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171238:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171329:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171330:INFO:CONSOLE(2)] "Uncaught TypeError: Cannot read property 'window' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (2)
+[0214/171331:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171332:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171332:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171333:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171405:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171406:INFO:CONSOLE(2)] "Uncaught TypeError: Cannot read property 'window' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (2)
+[0214/171407:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171408:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171420:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171420:INFO:CONSOLE(23)] "Uncaught ReferenceError: win is not defined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171422:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171434:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171435:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171437:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171438:INFO:CONSOLE(23)] "Uncaught ReferenceError: editor is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (23)
+[0214/171439:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171533:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171533:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171538:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171544:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171545:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171559:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171600:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171600:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171602:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171631:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171631:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171636:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171643:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171644:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171648:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/171920:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/171920:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/171923:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172014:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172016:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172033:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172037:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172129:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172132:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172143:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172149:INFO:CONSOLE(56)] "Uncaught ReferenceError: fs is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (56)
+[0214/172156:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172539:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172544:INFO:CONSOLE(56)] "Uncaught ReferenceError: fs is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (56)
+[0214/172548:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172559:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172603:INFO:CONSOLE(56)] "Uncaught ReferenceError: fs is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (56)
+[0214/172607:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172628:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172633:INFO:CONSOLE(56)] "Uncaught ReferenceError: fs is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (56)
+[0214/172637:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172700:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172705:INFO:CONSOLE(56)] "Uncaught ReferenceError: fs is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (56)
+[0214/172709:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172725:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172728:INFO:CONSOLE(70)] "Uncaught ReferenceError: fileContents is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (70)
+[0214/172731:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172755:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172803:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172815:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172825:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172848:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172855:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172918:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/172927:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/172952:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173014:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/173146:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173150:INFO:CONSOLE(57)] "Uncaught ReferenceError: file is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (57)
+[0214/173201:INFO:CONSOLE(57)] "Uncaught ReferenceError: file is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (57)
+[0214/173204:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/173204:ERROR_REPORT:gtk_native_view_id_manager.cc(180)] Check failed: window. 
+[0214/173204:ERROR:browser_main_loop.cc(212)] Gdk: _gdk_window_destroy_hierarchy: assertion 'GDK_IS_WINDOW (window)' failed
+[0214/173204:ERROR:browser_main_loop.cc(212)] GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[0214/173321:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173325:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/173429:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173430:INFO:CONSOLE(15)] "Uncaught ReferenceError: edit is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (15)
+[0214/173432:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/173521:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173522:INFO:CONSOLE(15)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (15)
+[0214/173523:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/173539:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173540:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/173540:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/173542:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/173824:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/173937:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/174353:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/175520:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/175520:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/175520:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/175549:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/180216:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/180217:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/180217:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/180221:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/180224:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/180225:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/180225:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/180229:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/180229:ERROR_REPORT:gtk_native_view_id_manager.cc(180)] Check failed: window. 
+[0214/180229:ERROR:browser_main_loop.cc(212)] Gdk: _gdk_window_destroy_hierarchy: assertion 'GDK_IS_WINDOW (window)' failed
+[0214/180229:ERROR:browser_main_loop.cc(212)] GLib-GObject: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[0214/181326:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/181327:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/181327:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/181637:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/181637:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/181637:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/181642:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/181820:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/181820:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/181820:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/181821:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/182030:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/182031:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/182031:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/182035:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/182154:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/182154:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/182154:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/182200:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/183855:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/183856:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/183856:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/183902:INFO:CONSOLE(1)] "Uncaught ReferenceError: getFileData is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/183907:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/183922:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/183922:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/183922:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/183925:INFO:CONSOLE(1)] "Uncaught ReferenceError: getFileData is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/183929:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184354:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/184355:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/184355:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/184356:INFO:CONSOLE(1)] "Uncaught ReferenceError: PyPrint is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/184357:INFO:CONSOLE(1)] "Uncaught ReferenceError: PyPrint is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/184359:INFO:CONSOLE(1)] "Uncaught ReferenceError: PyPrint is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/184359:INFO:CONSOLE(1)] "Uncaught ReferenceError: PyPrint is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/184401:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184439:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/184440:ERROR_REPORT:message_loop.cc(334)] Check failed: false. Must be inside Run to call Quit
+[0214/184518:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/184519:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/184519:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/184520:INFO:CONSOLE(1)] "Uncaught ReferenceError: PyPrint is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/184522:INFO:CONSOLE(1)] "Uncaught ReferenceError: PyPrint is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (1)
+[0214/184526:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184632:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/184633:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/184633:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/184642:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184642:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184823:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/184824:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/184824:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/184829:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184829:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184903:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/184904:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/184904:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/184914:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/184914:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/185139:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/185139:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/185139:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/185154:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/185155:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/185155:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/185520:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/185522:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/185522:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/185531:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/185531:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/185606:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/185606:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/185606:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/185612:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/185612:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191535:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/191536:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/191536:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/191543:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191543:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191617:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/191617:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/191617:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/191631:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191631:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191654:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/191654:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/191654:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/191656:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191656:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191707:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/191708:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/191708:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)
+[0214/191715:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191715:ERROR:browser_main_loop.cc(212)] <unknown>: (../../../lib/unity-gtk-action-group.c:1030):unity_gtk_action_group_disconnect_shell: runtime check failed: (shell->action_group == group)
+[0214/191735:INFO:gpu_info_collector_x11.cc(80)] NVCtrl extension does not exist.
+[0214/191735:INFO:CONSOLE(23)] "Uncaught TypeError: Cannot call method 'getBounds' of undefined", source: file:///home/narendra/braces/braces-cefpython/js/app.js (23)
+[0214/191735:INFO:CONSOLE(16)] "Uncaught ReferenceError: app_load is not defined", source: file:///home/narendra/braces/braces-cefpython/index.html (16)

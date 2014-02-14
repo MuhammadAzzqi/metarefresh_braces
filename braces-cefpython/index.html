@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Braces</title>
+        <script type="text/javascript" src="lib/jquery.min.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="lib/codemirror/lib/codemirror.js"></script>
+        <script type="text/javascript" src="lib/codemirror/mode/javascript/javascript.js"></script>
+        <script type="text/javascript" src="lib/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+        <script type="text/javascript" src="lib/codemirror/mode/css/css.js"></script>
+        <link rel="stylesheet" href="css/app.css"/>
+
+        <link rel="stylesheet" href="lib/codemirror/lib/codemirror.css"/>
+        <link rel="stylesheet" href="lib/codemirror/theme/monokai.css"/>
+    </head>
+    <body onload="app_load()" style="font-size:16px;font-family:verdana;">
+        <input type="file" id="open" onchange="go()"/>
+        <div id="braces_editor" style="font-size:20px;font-weight:bold;font-family:verdana;"></div>
+
+        <script type="text/javascript">
+        function go() {
+            var fil = document.getElementById("open");
+            alert(fil.value);
+        }
+        </script>
+
+    </body>
+
+
+
+</html>

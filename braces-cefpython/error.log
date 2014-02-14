@@ -1,0 +1,357 @@
+
+[2014-02-14 15:24:59] Traceback (most recent call last):
+
+  File "myapp.py", line 194, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 150, in OnInit
+    if not USE_EVT_IDLE:
+
+NameError: global name 'USE_EVT_IDLE' is not defined
+
+
+[2014-02-14 15:40:06] Traceback (most recent call last):
+
+  File "myapp.py", line 194, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 150, in OnInit
+    if not USE_EVT_IDLE:
+
+NameError: global name 'USE_EVT_IDLE' is not defined
+
+
+[2014-02-14 15:42:27] Traceback (most recent call last):
+
+  File "myapp.py", line 194, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 150, in OnInit
+    if not USE_EVT_IDLE:
+
+NameError: global name 'USE_EVT_IDLE' is not defined
+
+
+[2014-02-14 16:14:48] Traceback (most recent call last):
+
+  File "myapp.py", line 427, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 385, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 331, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 367, in CreateMenu
+    menubar.Append(aboutmenu, "&About")
+
+NameError: global name 'aboutmenu' is not defined
+
+
+[2014-02-14 16:15:29] Traceback (most recent call last):
+
+  File "myapp.py", line 370, in OnClose
+    self.browser.OpenFile()
+
+AttributeError: 'cefpython_py27.PyBrowser' object has no attribute 'OpenFile'
+
+
+[2014-02-14 16:17:07] Traceback (most recent call last):
+
+  File "myapp.py", line 430, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 388, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 331, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 363, in CreateMenu
+    filemenu.addAction(QtGui.QAction("Open", self))
+
+AttributeError: 'Menu' object has no attribute 'addAction'
+
+
+[2014-02-14 16:17:25] Traceback (most recent call last):
+
+  File "myapp.py", line 424, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 382, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 331, in __init__
+    self.CreateMenu()
+
+AttributeError: 'MainFrame' object has no attribute 'CreateMenu'
+
+
+[2014-02-14 16:17:43] Traceback (most recent call last):
+
+  File "myapp.py", line 424, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 382, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 331, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 361, in CreateMenu
+    menubar = self.menuBar()
+
+AttributeError: 'MainFrame' object has no attribute 'menuBar'
+
+
+[2014-02-14 16:18:18] Traceback (most recent call last):
+
+  File "myapp.py", line 432, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 390, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 365, in CreateMenu
+    filemenu.addAction(QtGui.QAction("Open", self))
+
+AttributeError: 'Menu' object has no attribute 'addAction'
+
+
+[2014-02-14 16:19:15] Traceback (most recent call last):
+
+  File "myapp.py", line 423, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 381, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 363, in CreateMenu
+    menubar = self.menuBar()
+
+AttributeError: 'MainFrame' object has no attribute 'menuBar'
+
+
+[2014-02-14 16:20:10] Traceback (most recent call last):
+
+  File "myapp.py", line 423, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 381, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 363, in CreateMenu
+    menubar = self.menuBar()
+
+RuntimeError: super-class __init__() of type MainFrame was never called
+
+
+[2014-02-14 16:20:13] Traceback (most recent call last):
+
+  File "myapp.py", line 423, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 381, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 363, in CreateMenu
+    menubar = self.menuBar()
+
+RuntimeError: super-class __init__() of type MainFrame was never called
+
+
+[2014-02-14 16:33:36] Traceback (most recent call last):
+
+  File "myapp.py", line 384, in OnOpen
+    windowInfo,
+
+NameError: global name 'windowInfo' is not defined
+
+
+[2014-02-14 16:55:19] Traceback (most recent call last):
+
+  File "myapp.py", line 440, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 398, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 363, in CreateMenu
+    menubar = self.menuBar()
+
+AttributeError: 'MainFrame' object has no attribute 'menuBar'
+
+
+[2014-02-14 16:56:58] Traceback (most recent call last):
+
+  File "myapp.py", line 440, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 398, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 363, in CreateMenu
+    menubar = self.menuBar()
+
+RuntimeError: super-class __init__() of type MainFrame was never called
+
+
+[2014-02-14 16:57:45] Traceback (most recent call last):
+
+  File "myapp.py", line 442, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 400, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 333, in __init__
+    self.CreateMenu()
+
+  File "myapp.py", line 369, in CreateMenu
+    self.Bind(wx.EVT_MENU, self.OnSave, save)
+
+AttributeError: 'MainFrame' object has no attribute 'OnSave'
+
+
+[2014-02-14 18:44:40] Traceback (most recent call last):
+
+  File "myapp.py", line 453, in <module>
+    app = MyApp(False)
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7981, in __init__
+    self._BootstrapApp()
+
+  File "/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py", line 7555, in _BootstrapApp
+    return _core_.PyApp__BootstrapApp(*args, **kwargs)
+
+  File "myapp.py", line 411, in OnInit
+    frame = MainFrame()
+
+  File "myapp.py", line 337, in __init__
+    jsBindings.SetFunction("PyPrint", PyPrint)
+
+NameError: global name 'PyPrint' is not defined
+
+
+[2014-02-14 18:51:42] Traceback (most recent call last):
+
+  File "v8function_handler_cef3.pyx", line 39, in cefpython_py27.V8FunctionHandler_Execute (cefpython.cpp:33413)
+
+  File "myapp.py", line 160, in PyPrint
+    with file(message) as f:
+
+IOError: [Errno 2] No such file or directory: 'C:\\fakepath\\new.html'
+
+
+[2014-02-14 18:52:02] Traceback (most recent call last):
+
+  File "v8function_handler_cef3.pyx", line 39, in cefpython_py27.V8FunctionHandler_Execute (cefpython.cpp:33413)
+
+  File "myapp.py", line 160, in PyPrint
+    with file(message) as f:
+
+IOError: [Errno 2] No such file or directory: 'C:\\fakepath\\error.log'
+
